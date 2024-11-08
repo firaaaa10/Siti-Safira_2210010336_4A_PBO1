@@ -234,4 +234,4 @@ CincinDetail[] cincin = new CincinDetail[2];
 ## Pembuat
 
 Nama: Siti Safira
-NPM: 2110010336
+NPM: 2210010336
